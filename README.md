@@ -26,6 +26,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/samueljssnts/samueljssnts/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/samueljssnts/output/snake.svg" alt="Snake animation" />
 
 ###
